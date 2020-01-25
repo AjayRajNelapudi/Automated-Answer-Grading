@@ -2,9 +2,9 @@
 
 def calculate_weight(vector):
     feature_weights = {
-        'word_count': 0.1,
-        'sentence_count': 0.1,
-        'correct_ratio': 0.3,
+        'word_count': 0.2,
+        'sentence_count': 0.2,
+        'correct_ratio': 0.1,
         'clean_words': 0.5
     }
     vector_weight = 0
