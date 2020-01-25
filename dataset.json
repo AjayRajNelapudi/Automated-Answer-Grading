@@ -1,0 +1,79 @@
+{
+	"What is JAVA?": {
+		"Answers": [
+			"Java is a programming language and a computing platform for application development. It was first released by Sun Microsystem in 1995 and later acquired by Oracle Corporation. It is one of the most used programming languages.",
+			"Java is a high-level programming language and is platform independent. Java is a collection of objects. It was developed by Sun Microsystems.",
+			"Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.",
+			"Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+			"Java is a widely used programming language expressly designed for use in the distributed environment of the internet.",
+			"Java is a write-once, run-anywhere programming language developed by Sun Microsystems. It is similar to C and C++ but a lot easier.",
+			"Java is a programming language that produces software for multiple platforms. When a programmer writes a Java application, the compiled code (known as bytecode) runs on most operating systems (OS), including Windows, Linux and Mac OS. Java derives much of its syntax from the C and C++ programming languages.",
+			"Java is an Object-Oriented Programming Language. It was first released by Sun Microsystems in 1995. Oracle acquired Sun Microsystems in 2010 and now maintains the release and support of Java programming language.",
+			"Java applications support Write-Once-Run-Everywhere paradigm. It means that you can develop and compile a java program in one system and run the compiled code in any other type of operating system."
+
+		],
+  		"Marks": 5
+	},
+
+	"What is a data structure?": {
+		"Answers": [
+			"A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+			"A data structure is a data organization, management, and storage format that enables efficient access and modification.",
+			"A data structure is a way of organizing the data so that the data can be used efficiently. Different kinds of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks",
+			"Various methods or formats such as an array, file, or record for organizing data in a computer",
+			"Data structure is a way in which data are stored for efficient search and retrieval.",
+			"A data structure is a particular way of organizing data in a computer so that it can be used effectively. For example, we can store a list of items having the same data-type using the array data structure",
+			"Data Structure is a way to store and organize data so that it can be used efficiently. Our Data Structure tutorial includes all topics of Data Structure such as Array, Pointer, Structure, Linked List, Stack, Queue, Graph, Searching, Sorting, Programs.",
+			"Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.",
+			"Data structures are the way we are able to store and retrieve data. You may already be familiar with Python lists and dictionaries, or Javascript arrays and objects. If so, you know that lists and arrays are sequential with data accessed by index while dictionaries and objects use a named key to store and retrieve information.",
+			"Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage."
+		],
+		"Marks": 5
+	},
+
+	"What is Inheritance?": {
+		"Answers": [
+			"Inheritance is a mechanism in which one class acquires the property of another class. For example, a child inherits the traits of his/her parents. With inheritance, we can reuse the fields and methods of the existing class. Hence, inheritance facilitates Reusability and is an important concept of OOPs",
+			"The capability of a class to derive properties and characteristics from another class is called Inheritance. Inheritance is one of the most important feature of Object Oriented Programming. Sub Class is the class that inherits properties from another class is called Sub class or Derived Class. Super Class is the class whose properties are inherited by sub class is called Base Class or Super class.",
+			"Inheritance is one of the core concepts of object-oriented programming (OOP) languages. It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.",
+			"Object-oriented programming allows classes to inherit commonly used state and behavior from other classes.",
+			"inheritance is the mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation.",
+			"Inheritance is a fundamental feature of an Object-Oriented programming. It is the process of creating a new Class, called the Derived Class, from the existing class, called the Base Class. Inheritance is a very elegant way to reuse and modify the data and functionality that has already been defined in the Base Class",
+			"Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).",
+			"In object-oriented programming, inheritance is the concept that when a class of objects is defined, any subclass that is defined can inherit the definitions of one or more general classes.",
+			"Inheritance is a mechanism wherein a new class is derived from an existing class. In Java, classes may inherit or acquire the properties and methods of other classes. A class derived from another class is called a subclass, whereas the class from which a subclass is derived is called a superclass. A subclass can have only one superclass, whereas a superclass may have one or more subclasses."
+			
+		],
+		"Marks": 5
+	},
+
+	"What is Computer networks?": {
+		"Answers": [
+			"A computer network is a group of computers linked to each other that enables the computer to communicate with another computer and share their resources, data, and applications. A computer network can be categorized by their size.",
+			"A computer network is the interconnection of computing devices in order to share data and is built with a combination of computer hardware and software WikiAnswers- Unknown author. Computer networks are used to connect multiple computers to an internet connection, or to printers, scanners, etc in the same area that the network covers. There are many types of networks that are classified using several different characteristics of each network. This report will discuss some of the characteristics that are used to classify the network, such as the connection method of the computer network, types of networks as determined by their size, scope, and purpose, as well as some of the basic hardware that is used to create a computer network.There are two basic connection methods: wired connection and wireless connection. Each type of wired connection is classified by which type of wiring it uses to create the network. Generally wireless connections are classified by the type of network they create (we will be discussing these later), since they don’t use any wiring and therefore couldn’t be classified by the different types of wiring.here are many different types of computer networks in the world today. The options range from wired to wireless, to a network that only extends to a 20-30 foot radius to a network that could span across an entire nation. Networks enable you to print an essay when you’re in a completely different room from your printer, or to email a friend or family member in another state.",
+			"A computer network is a set of computers connected together for the purpose of sharing resources. The most common resource shared today is connection to the Internet. Other shared resources can include a printer or a file server. The Internet itself can be considered a computer network.",
+			"A computer network is a system in which multiple computers are connected to each other to share information and resources.",
+			"A computer network is a group of computer systems and other computing hardware devices that are linked together through communication channels to facilitate communication and resource-sharing among a wide range of users.",
+			"Computer Network is the interconnection of multiple devices, generally termed as Hosts connected using multiple paths for the purpose of sending/receiving data or media.",
+			"Computer networks are the basis of communication in IT. They are used in a huge variety of ways and can include many different types of network. A computer network is a set of computers that are connected together so that they can share information.",
+			"A computer network is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes.",
+			"Computer network, two or more computers that are connected with one another for the purpose of communicating data electronically. Besides physically connecting computer and communication devices, a network system serves the important function of establishing a cohesive architecture that allows a variety of equipment types to transfer information in a near-seamless fashion.",
+			"Computer networking is the practice of interfacing two or more computing devices with each other for the purpose of sharing data. Computer networks are built with a combination of hardware and software."
+		],
+		"Marks": 5
+	},
+
+	"What is Program Counter?": {
+		"Answers": [
+			"A program counter is a register in a computer processor that contains the address (location) of the instruction being executed at the current time. As each instruction gets fetched, the program counter increases its stored value by 1. After each instruction is fetched, the program counter points to the next instruction in the sequence. When the computer restarts or is reset, the program counter normally reverts to 0.",
+			"The program counter (PC), commonly called the instruction pointer (IP) in Intel x86 and Itanium microprocessors, and sometimes called the instruction address register (IAR), the instruction counter, or just part of the instruction sequencer, is a processor register that indicates where a computer is in its program sequence.",
+			"A program counter (PC) is a CPU register in the computer processor which has the address of the next instruction to be executed from memory. It is a digital counter needed for faster execution of tasks as well as for tracking the current execution point.",
+			"A program counter is a register in a computer processor that contains the address (location) of the instruction being executed at the current time. As each instruction gets fetched, the program counter increases its stored value by 1. Program counter(PC) , also called instruction pointer.",
+			"A program counter is a register in the CPU that contains the address of the next instruction to be executed from memory. For example, when your computer is turned on, a signal places the decimal number F000 into the CPU. This action tells the computer to look at the first instruction on the motherboards flash memory chip.",
+			"A register in the control unit of the CPU that is used to keep track of the address of the current or next instruction. Typically, the program counter is advanced to the next instruction, and then the current instruction is executed.",
+			"A register in the control unit of the CPU that is used to keep track of the address of the current or next instruction. Typically, the program counter is advanced to the next instruction, and then the current instruction is executed. Also known as a sequence control register and the instruction pointer.",
+			"Program counter holds the address of either first byte of the next instruction to be fetched for execution or address of the next byte instruction which has not been completely fetched. In both the cases it automatically get incremented automatically one by one as the instruction byte get fetched. Also program register keeps the address of next instruction."
+		],
+		"Marks": 5
+	}
+}
